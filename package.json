@@ -1,0 +1,22 @@
+{
+  "name": "mannir-firebase-server",
+  "version": "1.0.0",
+  "description": "Mannir Firebase Server for Testing Firebase Locally",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manniru/mannir-firebase-server.git"
+  },
+  "author": "Muhammad Mannir Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manniru/mannir-firebase-server/issues"
+  },
+  "homepage": "https://github.com/manniru/mannir-firebase-server#readme",
+  "dependencies": {
+    "firebase-server": "^0.12.0"
+  }
+}
